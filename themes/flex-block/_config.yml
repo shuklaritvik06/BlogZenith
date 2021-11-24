@@ -1,0 +1,73 @@
+# Header
+menu:
+  Home: /
+  Contact: /contact
+  About: /about
+
+banner: https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+
+# 作者信息
+author:
+  name: Ritvik Shukla
+  avatar: https://github.com/shuklaritvik06.png
+  description: Developer|Poet|OSS Enthusiast
+
+toc:
+  max_depth: 3
+  min_depth: 2
+
+comments:
+  enable: true
+  use: "valine"
+  valine:
+    appId:
+    appKey:
+    avatar: mm
+    placeholder:
+    notify: true
+    visitor: true
+    pageSize: 10
+
+  disqus:
+    website:
+    error: Oh No! Some error is there :(
+
+# dplayer 视频播放
+# docs: http://dplayer.js.org/#/zh-Hans/
+dplayer:
+  enable: true
+  theme: "#b7daff"
+  autoplay: false
+  loop: false
+  mutex: true
+
+# aplayer 音频播放
+# docs: https://aplayer.js.org/#/zh-Hans/
+aplayer:
+  enable: true
+  theme: "#b7daff"
+  autoplay: false
+  loop: false
+  mutex: true
+  lrcType: 3
+
+# 国内备案信息
+beian:
+
+# 谷歌分析
+google_analytics:
+# gauges分析
+gauges_analytics:
+# 百度分析
+baidu_analytics:
+# 腾讯分析
+tencent_analytics:
+# 站点ico
+favicon: /favicon.ico
+
+# Social Icon
+social_icon:
+  enable: true
+  icons:
+    github: https://github.com/shuklaritvik06
+    twitter: https://twitter.com/shuklaritvik06
