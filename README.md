@@ -10,7 +10,7 @@ Contributions to BlogZenith are welcome! If you want to contribute, please follo
 
 ## Support
 
-If you have any questions, feedback, or require support with BlogZenith, please contact our team at support@blogzenith.com. We are here to assist you and help make your blogging experience a success.
+If you have any questions, feedback, or require support with BlogZenith, please contact our team at ritvikshukla261@gmail.com. We are here to assist you and help make your blogging experience a success.
 
 ## License
 
